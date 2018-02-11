@@ -1,0 +1,1 @@
+# hashcode c++ template
