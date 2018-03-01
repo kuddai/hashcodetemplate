@@ -23,9 +23,9 @@
 
 using namespace std;
 
-#define SCD(t) scanf("%d", &t)
-#define SCC(t) scanf("%s", &t)
-#define SCLLD(t) scanf("%lld", &uuu
+#define SCD(t) scanf("%d", &(t))
+#define SCC(t) scanf("%s", &(t))
+#define SCLLD(t) scanf("%lld", &(t))
 #define MOD 1000000007
 #define INF (int)1e9
 #define EPS 1e-9
