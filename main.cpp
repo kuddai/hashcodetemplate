@@ -24,7 +24,8 @@
 using namespace std;
 
 #define SCD(t) scanf("%d", &t)
-#define SCLLD(t) scanf("%lld", &t)
+#define SCC(t) scanf("%s", &t)
+#define SCLLD(t) scanf("%lld", &uuu
 #define MOD 1000000007
 #define INF (int)1e9
 #define EPS 1e-9
@@ -32,6 +33,8 @@ using namespace std;
 #define PB push_back
 
 typedef pair<int, int> PII; // first, second
+typedef vector<char> VC;
+typedef vector<VC> VVC;
 typedef vector<int> VI;
 typedef vector<string> VS;
 typedef vector<VI> VVI;
